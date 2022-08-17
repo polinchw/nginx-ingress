@@ -1,0 +1,10 @@
+resources:
+  - controller-configmap.yaml
+  - controller-ingress-class.yaml
+  - controller-secret.yaml
+  - controller-serviceaccount.yaml  
+  - namespace.yaml
+  - controller-deployment.yaml
+  - controller-leader-election-configmap.yaml  
+  - controller-service.yaml
+  - rbac.yaml
