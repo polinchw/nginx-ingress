@@ -1,4 +1,4 @@
 bases:
   - ../../base
 patches:
-  - contoller-service.yaml
+  - controller-service.yaml
