@@ -1,6 +1,4 @@
 bases:
   - ../../base
 patches:
-  - deployment.yaml
-  - east-to-west-svc.yaml
-  - west-to-east-svc.yaml
+  - contoller-service.yaml
